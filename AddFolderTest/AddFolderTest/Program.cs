@@ -12,6 +12,7 @@ namespace AddFolderTest
         {
             Console.WriteLine("This project folder will be moved outside of visual studio");
             Console.WriteLine("This edit was made directly thru VS");
+	        Console.WriteLine("This change was with notepad while project was open");
         }
     }
 }
